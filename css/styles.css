@@ -1,0 +1,94 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #2AD1BB;
+  height: 60px;
+}
+
+ .title {
+   float: left;
+   font-size: 18px;
+   color: white;
+ }
+
+ .nav-bar {
+   float: right;
+ }
+
+ .main-menu{
+   display: inline-block;
+ }
+
+.container {
+  background-color: #195C6C;
+  padding: 10px;
+  display: inline-block;
+}
+
+.ugly-cats {
+  width: 30%;
+  float: left;
+
+}
+
+.welcome {
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 70px;
+
+}
+
+.cats {
+  background-color: #FEC156;
+  padding: 10px;
+}
+
+.products {
+  background-color: #E2DCD0;
+  padding: 10px;
+}
+
+.pictures {
+
+}
+
+.rando-cats {
+  border: 10px solid black;
+  max-width: 220px;
+  max-height: 220px;
+}
+
+ul img {
+  width: 100%;
+}
+
+.end {
+      background-color: #26547C;
+}
+
+.menu {
+  color: red;
+  display: inline;
+}
+
+.lorem2 {
+  color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+footer {
+  background-color: #06D6A0;
+  height: 50px;
+  line-height: 50px;
+  text-align: right;
+  padding: 0 20px;
+}
